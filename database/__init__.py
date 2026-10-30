@@ -1,0 +1,2 @@
+"""Optional SQLite persistence."""
+
